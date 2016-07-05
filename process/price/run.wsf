@@ -1,0 +1,5 @@
+<job id="updatePrice">
+<script language="VBScript" src="ADOVBS.INC"/>
+<script language="VBScript" src="functions.vbs"/>
+<script language="VBScript" src="run.vbs"/>
+</job>

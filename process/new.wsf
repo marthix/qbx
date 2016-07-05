@@ -1,0 +1,4 @@
+<job id="SendNotice">
+   <script language="VBScript" src="ADOVBS.INC"/>
+   <script language="VBScript" src="new.vbs"/>
+</job>
